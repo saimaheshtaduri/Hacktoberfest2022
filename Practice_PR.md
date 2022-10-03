@@ -8,4 +8,5 @@
 - [Pranay Jalan](https://github.com/pranayjalan254)
 - [YogeshRajput](https://github.com/yogeshrajput335)
 - [TaduriSaiMahesh](https://github.com/saimaheshtaduri)
+- [Siddharth Reddy](https://github.com/Siddharth2812)
 
